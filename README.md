@@ -25,6 +25,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj0602&layout=compact&bg_color=60,8293e8,8568ee&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    <div>
-   (http://mazassumnida.wtf/api/generate_badge?boj={yj0602})](https://solved.ac/{yj0602})
-    </div>
