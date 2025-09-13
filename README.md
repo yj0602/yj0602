@@ -25,4 +25,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yj0602&layout=compact&bg_color=60,8293e8,8568ee&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    [![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj0602&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/yj0602/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryg1245)](https://solved.ac/ryg1245/)
