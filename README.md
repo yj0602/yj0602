@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👋 Hi there, I'm Yunji Noh
+### 👋 Hello !
 
 부산대학교 정보컴퓨터공학부에서 공부하고 있습니다.  
 사용자에게 편리한 서비스를 만드는 것에 관심이 있습니다.
@@ -43,12 +43,14 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
 
 <br/><br/>
 
 ## 📌 Interest
 
-Frontend Development · Web Service · UI/UX · Team Project
+Frontend Development · Web Service · UI/UX · Game Development
 
 <br/>
 
