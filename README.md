@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8293E8,100:8568EE&height=200&section=header&text=Yunji%20Noh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8293E8,100:8568EE&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-### 👋 Welcome to my Github
+### 👋 Hi there, I'm Yunji Noh
 
 부산대학교 정보컴퓨터공학부에서 공부하고 있습니다.  
 사용자에게 편리한 서비스를 만드는 것에 관심이 있습니다.
